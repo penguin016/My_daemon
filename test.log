@@ -1,0 +1,2 @@
+wsx      11142  0.0  0.0   2216   536 pts/0    S+   21:03   0:00 sh -c ps aux | grep mpirun >> test.log
+wsx      11144  0.0  0.0   5796   856 pts/0    S+   21:03   0:00 grep mpirun

@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1381201671 source:/home/wsx/Desktop/My_daemon/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<fcntl.h>
+	<unistd.h>
+
+1380079562 source:/home/wsx/Desktop/daemon.c
+	<unistd.h>
+	<signal.h>
+	<sys/param.h>
+	<sys/types.h>
+	<sys/stat.h>
+
+1381232750 source:/home/wsx/Desktop/My_daemon/parser.c
+	<stdlib.h>
+	<pwd.h>
+	"parse.h"
+
+1381201981 /home/wsx/Desktop/My_daemon/parse.h
+	<sys/types.h>
+	<stdlib.h>
+
+1381316879 source:/home/wsx/Desktop/My_daemon/readproc.c
+	"readproc.h"
+	<stdlib.h>
+	<fcntl.h>
+	<stdio.h>
+
+1381317631 /home/wsx/Desktop/My_daemon/readproc.h
+
